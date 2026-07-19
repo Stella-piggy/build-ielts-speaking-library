@@ -1,0 +1,4 @@
+interface:
+  display_name: "雅思口语素材库"
+  short_description: "建立个人雅思口语素材库，支持串题、双版本答案与练习纠错"
+  default_prompt: "Use $build-ielts-speaking-library to build or update my personal IELTS speaking library from my question bank."
